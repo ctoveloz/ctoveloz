@@ -13,8 +13,8 @@ I'm Cristiano, Web Developer since 2005.
 
 ---
 
-´´js
+```js
 
 If (youDontLike === javascript){
   out();
-}´´
+}```
