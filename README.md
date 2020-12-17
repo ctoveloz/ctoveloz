@@ -8,7 +8,6 @@ I'm Cristiano, Web Developer since 2005(my first website in Joomla 😅).
 
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/5598992099514)
 - ⚡ Hobby: Do robots in JS drinking a beer LOL 
 
 ```js
