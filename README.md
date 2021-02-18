@@ -8,7 +8,7 @@ I'm Cristiano, Web Developer since 2005(my first website in Joomla 😅).
 
 # Hello World!! 🤔
 - 💬 Ask me about anything and everything! 
-- ⚡ Hobby: Do robots in JS drinking a beer LOL 
+- ⚡ Hobby: Do bots drinking a beer LOL 
 
 ```js
 If (youDontLike === javascript){
